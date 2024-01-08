@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1704741965 source:s:\code\c++ code\mysecondproject\mysecondproject.cpp
+	"mysecondproject.h"
+	<iostream>
+
+1704742112 s:\code\c++ code\mysecondproject\mysecondproject.h
+	"MySecondProject.h"
+
+1704741965 source:s:\code\c++ code\mysecondproject\main.cpp
+	<iostream>
+	"MySecondProject.h"
+
